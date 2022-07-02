@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @naved-alam
-- 👀 I’m interested in UI-UX Designing
-- 🌱 I’m currently learning UI-UX Design
+- 👀 I’m UI/UX Designer
 - 💞️ I’m looking to collaborate on Design projects
 - 📫 Contact me through my email - navedalam516@gmail.com
 
